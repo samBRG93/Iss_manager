@@ -1,0 +1,7 @@
+requests
+geopy
+python-dotenv
+matplotlib
+basemap
+cartopy
+geopandas
