@@ -1,4 +1,4 @@
-*Questions:*
+Questions[]: # Path: README.md
 
 Suppose you have a program that does the following:
 
@@ -27,7 +27,7 @@ longitude: "-87.2757"
 
 Please feel free to use any library to support your implementation and make sure to write down any assumption you make.
 
-*Answers:*
+Answers[]: # Path: README.md
 
 1) For the answer to question 1 I did a series of tests in the "test_iss_manager" file. these are all integration 
 tests as they interact with external resources. To do a complete job, unit tests with magic mocks would have to be 
@@ -41,3 +41,6 @@ Two public methods can be found in the "ISSManager" class: "sample_position", wh
 and "plot_samples_on_globe", which plots with matplotlib as was assumed in the assignment description.
 
 You can find definitions and specifications inside the "iss_manager" class and the "test_iss_manager" file.
+
+
+![img.png](img.png)
