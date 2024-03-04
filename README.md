@@ -42,5 +42,5 @@ and "plot_samples_on_globe", which plots with matplotlib as was assumed in the a
 
 You can find definitions and specifications inside the "iss_manager" class and the "test_iss_manager" file.
 
-
+screen shot of the plot:
 ![img.png](img.png)
